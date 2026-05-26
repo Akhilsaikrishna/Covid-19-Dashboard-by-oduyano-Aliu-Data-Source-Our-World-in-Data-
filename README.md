@@ -1,1 +1,2 @@
 # Covid-19-Dashboard-by-oduyano-Aliu-Data-Source-Our-World-in-Data-
+Developed an interactive COVID-19 Dashboard using Microsoft Power BI to analyze and visualize pandemic data effectively. The project provides insights into confirmed cases, recoveries, deaths, and vaccination trends through dynamic charts, KPI cards, and filters. Implemented data cleaning, transformation, and DAX calculations to improve reporting accuracy and performance. Designed a user-friendly and responsive dashboard to support data-driven analysis and decision-making.
